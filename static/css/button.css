@@ -6,7 +6,7 @@
 
 .button a:link,
 .button a:visited,
-.button a:hover,
+.button 
 .button a:active {
     display: block;
     unicode-bidi: isolate;
