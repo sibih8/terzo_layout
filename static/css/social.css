@@ -1,0 +1,11 @@
+.social {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 35px;
+}
+
+.social img {
+    padding-left: 65px;
+}

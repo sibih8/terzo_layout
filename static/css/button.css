@@ -1,0 +1,22 @@
+.button{
+    margin-top: 55px;
+    border-top: 3px solid #fff;
+    padding-top: 45px;
+}
+
+.button a:link,
+.button a:visited,
+.button a:hover,
+.button a:active {
+    display: block;
+    unicode-bidi: isolate;
+    font-size: 30px;
+    color: #080C71;
+    text-decoration: none;
+    background-color: #fff;
+    line-height: 1;
+    font-weight: bold;
+    border: 1px solid #707070;
+    padding: 15px 125px;
+    border-radius: 15px;
+}

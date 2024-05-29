@@ -1,0 +1,13 @@
+@import "commons.css";
+@import "title.css";
+@import "hero.css";
+@import "text.css";
+@import "button.css";
+@import "nav.css";
+@import "main.css";
+@import "social.css";
+
+body{
+    margin: 0;
+    padding: 0;
+}

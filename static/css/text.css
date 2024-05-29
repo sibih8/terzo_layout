@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Hoefler Text";
+    src: url(../fonts/ufonts.com_hoefler-text.ttf);
+}
+
+.text p{
+    font-family: "Hoefler Text"; 
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    line-height: 1;
+    font-weight: normal;
+    justify-content: center;
+    margin-top: 55.25px;
+}
